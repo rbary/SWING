@@ -4,10 +4,12 @@
  * and open the template in the editor.
  */
 
+package MorpionVue;
+
 /**
  *
  * @author rbary
  */
-public class Convertmodel {
+public class MorpionController {
     
 }
